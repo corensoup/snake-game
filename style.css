@@ -1,0 +1,19 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: sans-serif;
+}
+
+#game {
+	position: relative;
+}
+
+#score {
+	position: absolute;
+	color: white;
+	top: 50px;
+	right: 50px;
+	font-size: 20px;
+	margin: 0;
+}
